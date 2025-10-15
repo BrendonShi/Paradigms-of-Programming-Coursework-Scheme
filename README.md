@@ -3,7 +3,7 @@ This project is a code-breaking game, similar to Mastermind, implemented in the 
 
 ---
 
-# ✨ Features
+# Features
 - Secret Code Generation: The game can generate a random secret code of a specified length using a given list of possible numbers.
 
 - Player Guessing: A simple interface allows the player to input their guess.
@@ -18,8 +18,8 @@ This project is a code-breaking game, similar to Mastermind, implemented in the 
 
 ---
 
-# 🚀 How to Run the Game
-To play the game, you need to have DrRacket installed.
+# How to Run
+To run the program, you need to have DrRacket installed.
 
 - Open the file: Open the COMP1811_CW2Code.rkt file in DrRacket.
 
@@ -27,7 +27,7 @@ To play the game, you need to have DrRacket installed.
 
 ---
 
-# 🎮 How to Play
+# How to Play
 
 2. Enter your guess as a list of numbers, for example: "1", "2" or "3".
 
