@@ -1,5 +1,5 @@
 # Family Tree (Racket)
-Provides different options to interact with given list of family tree members.
+Provides different options to interact with the given list of family tree members.
 
 ![scheme family tree](https://github.com/user-attachments/assets/3304bd3d-0607-400a-a248-8b4d2afdce8e)
 
